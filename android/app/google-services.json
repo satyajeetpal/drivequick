@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107567327959",
+    "project_id": "drivequick-64e67",
+    "storage_bucket": "drivequick-64e67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107567327959:android:d17516740956fa3a2f1e92",
+        "android_client_info": {
+          "package_name": "com.example.drivequick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACFC9UqPPpQLC2I-p07YimdSEtBU0obi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
